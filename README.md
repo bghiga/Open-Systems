@@ -20,6 +20,7 @@ The coursework focused on virtualization, Linux administration, networking, stor
 - VLANs
 - DNS
 - Linux Command Line
+- WordPress
 
 ## Skills Demonstrated
 
@@ -58,6 +59,10 @@ Created and mounted NFS shares using TrueNAS and integrated network storage with
 ### 6. pfSense Firewall & VLAN Configuration
 
 Configured a pfSense firewall, implemented VLAN segmentation, and secured systems behind a managed firewall.
+
+### 7. WordPress Business Website
+
+Designed and deployed a WordPress-based business website featuring service pages, customer support functionality, user authentication, and website security enhancements.
 
 ## Note
 
